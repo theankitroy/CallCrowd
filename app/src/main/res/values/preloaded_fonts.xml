@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alegreya_sans_sc_thin</item>
+        <item>@font/arbutus</item>
+        <item>@font/arizonia</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/bonbon</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/caesar_dressing</item>
+        <item>@font/eagle_lake</item>
+        <item>@font/fontdiner_swanky</item>
+        <item>@font/leckerli_one</item>
+    </array>
+</resources>

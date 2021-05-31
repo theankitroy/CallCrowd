@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423431676515",
+    "project_id": "callcrowd-d2b39",
+    "storage_bucket": "callcrowd-d2b39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423431676515:android:c827b8bca406eca1810e56",
+        "android_client_info": {
+          "package_name": "com.example.callcrowd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423431676515-r6s37c8vkl4dm62b2rgec5e4ou2q2dsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBakfQURnY_piY4LC_ahlia9aLV0ogIZ9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423431676515-r6s37c8vkl4dm62b2rgec5e4ou2q2dsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
